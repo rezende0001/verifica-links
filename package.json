@@ -1,0 +1,19 @@
+{
+  "name": "verifica-links",
+  "version": "1.0.7",
+  "description": "Verificador de Links HTTPS e HTTP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "verify",
+    "checker"
+  ],
+  "author": "Hype",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.6",
+    "url": "^0.11.0"
+  }
+}
