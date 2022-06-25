@@ -15,5 +15,5 @@
   "dependencies": {
     "node-fetch": "^3.2.6",
     "url": "^0.11.0"
-  },
+  }
 }
