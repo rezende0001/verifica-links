@@ -1,10 +1,9 @@
-const { URL } = require('url');
+const { URL } = require("url");
 
-const https = require('./lib/check');
-
+const https = require("./lib/check");
 
 function checkLink(link, callback) {
-    https.check(link, callback);
+  https.check(link, callback);
 }
 
-module.exports = checkLink
+module.exports = checkLink;
