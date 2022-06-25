@@ -1,6 +1,6 @@
 {
   "name": "verifica-links",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "Verificador de Links HTTPS e HTTP",
   "main": "index.js",
   "scripts": {
