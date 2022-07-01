@@ -3,6 +3,10 @@
   "version": "1.0.14",
   "description": "Verificador de Links HTTPS e HTTP",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hype2557/verifica-links.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
